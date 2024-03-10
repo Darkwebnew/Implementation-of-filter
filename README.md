@@ -148,19 +148,29 @@ plt.axis('off')
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![image](https://github.com/Darkwebnew/Implementation-of-filter/assets/143114486/14c38079-b9f6-4961-b5aa-a79f856b31ef)
+
 ii) Using Weighted Averaging Filter
+
 ![image](https://github.com/Darkwebnew/Implementation-of-filter/assets/143114486/e26db09b-dcf9-47e0-bc0e-b38660e5003a)
+
 iii) Using Gaussian Filter
+
 ![image](https://github.com/Darkwebnew/Implementation-of-filter/assets/143114486/81b80e6f-87e7-4968-bb19-ad47564ac032)
+
 iv) Using Median Filter
+
 ![image](https://github.com/Darkwebnew/Implementation-of-filter/assets/143114486/a7de7a0d-9d9d-4057-843b-97a8f1ced3fc)
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+
 ![image](https://github.com/Darkwebnew/Implementation-of-filter/assets/143114486/7f2bb5a0-ee9a-4c25-a9de-aeadeaf9d1fe)
+
 ii) Using Laplacian Operator
+
 ![image](https://github.com/Darkwebnew/Implementation-of-filter/assets/143114486/a86dd236-f057-4a6c-b56e-0650596330e9)
 
 ## Result:
